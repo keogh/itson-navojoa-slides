@@ -2,5 +2,12 @@
     "index.md",
     "quien-soy.md",
     "agenda.md",
-    "the-players.md"
+    [
+        "the-players.md",
+        "the-players-angularjs.md",
+        "the-players-nodejs.md",
+        "the-players-socketio.md",
+        "the-players-bower.md",
+        "the-players-gruntjs.md"
+    ]
 ]
