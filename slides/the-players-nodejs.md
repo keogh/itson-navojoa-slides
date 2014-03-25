@@ -1,3 +1,7 @@
-##  The Players Node.js
+<img src="img/nodejs-logo.svg" width="500px" />
 
-This is a new Markdown slide
+&nbsp;
+
+* Ejecuta Javascript en el Servidor
+* Non-Blocking I/O model
+* Ejecuta comandos en bash

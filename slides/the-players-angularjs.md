@@ -1,5 +1,8 @@
 ## Angular.js
 
-<img src="img/angularjs-logo.png" /> 
+<img src="img/angularjs-logo.png" width="300px" height="300px" /> 
 
-This is a new Markdown slide
+* Javascript Framework
+* Model-View-Whatever
+* Two-way Data Binding
+* It's awesome!
