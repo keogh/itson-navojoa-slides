@@ -1,3 +1,5 @@
-##  The Players: Socket.io
+<img src="img/socketio-logo.png" />
 
-This is a new Markdown slide
+* Applicaciones en Tiempo Real
+* Comunicación en dos vías
+* Websockets
