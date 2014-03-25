@@ -1,10 +1,7 @@
 
-# Angular.js
+## Taller de Desarrollo Web
 
-From the terminal, pop in:
+&nbsp;
+#### Chat con [Angular.js](http://angularjs.org/) + [Node.js](http://angularjs.org/) + [Socket.io](http://socket.io/) + [Bower](http://bower.io/) + [Grunt.js](http://gruntjs.com/)
 
-  ```yo reveal:slide "Slide Title"```
-
-Available options:
-
- ```--markdown --attributes --notes```
+By Isaac Zepeda
