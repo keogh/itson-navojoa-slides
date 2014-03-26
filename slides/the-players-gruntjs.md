@@ -1,4 +1,4 @@
-<img src="img/gruntjs-logo.png" />
+<img src="img/gruntjs-logo.png" height="340px" />
 
 * Automatización
 * Task Runner

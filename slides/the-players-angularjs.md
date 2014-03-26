@@ -6,3 +6,7 @@
 * Model-View-Whatever
 * Two-way Data Binding
 * It's awesome!
+
+&nbsp;
+
+<http://angularjs.org>
