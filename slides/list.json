@@ -15,7 +15,8 @@
     [
         "the-chat-seed.md",
         "the-chat-seed-fork.md",
-        "the-chat-seed-clone.md"
+        "the-chat-seed-clone.md",
+        "the-chat-seed-installation.md"
     ],
     [
         "gruntjs-tasks.md",
