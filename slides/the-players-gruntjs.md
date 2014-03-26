@@ -1,3 +1,9 @@
-##  The Players: Grunt.js
+<img src="img/gruntjs-logo.png" />
 
-This is a new Markdown slide
+* Automatización
+* Task Runner
+* Server, livereload, SASS, JS Hint, y mucho mas!
+
+&nbsp;
+
+<http://gruntjs.com>
