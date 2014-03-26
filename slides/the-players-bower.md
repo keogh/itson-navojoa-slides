@@ -1,3 +1,10 @@
-##  The Players: Bower
+## Bower
 
-This is a new Markdown slide
+<img src="img/bower-logo.png" width="312px" />
+
+* Manejador de Dependencias
+* Front-end
+
+&nbsp;
+
+<http://bower.io>
