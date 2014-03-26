@@ -1,0 +1,10 @@
+.reveal section img {
+  border: none;
+  background: none;
+}
+
+.reveal section img.icon {
+  margin: 0px 5px;
+  height: 60px;
+  vertical-align: middle;
+}

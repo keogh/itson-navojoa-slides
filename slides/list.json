@@ -1,0 +1,31 @@
+[
+    "index.md",
+    "quien-soy.md",
+    "agenda.md",
+    [
+        "the-players.md",
+        "the-players-angularjs.md",
+        "the-players-nodejs.md",
+        "the-players-socketio.md",
+        "the-players-bower.md",
+        "the-players-gruntjs.md",
+        "the-players-bootstrap.md"
+    ],
+    "hello-world-angular.md",
+    [
+        "the-chat-seed.md",
+        "the-chat-seed-fork.md",
+        "the-chat-seed-clone.md",
+        "the-chat-seed-installation.md"
+    ],
+    [
+        "gruntjs-tasks.md",
+        "gruntjs-tasks-example.md"
+    ],
+    "el-front-end.md",
+    [
+        "conectando-con-socketio.md",
+        "conectando-con-socketio-diagrama.md"
+    ],
+    "the-end.md"
+]
