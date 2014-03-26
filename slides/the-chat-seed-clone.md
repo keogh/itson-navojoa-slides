@@ -3,5 +3,5 @@
 &nbsp;
 
 ```
-git clone git@github.com:keogh/itson-guaymas-seed.git chat-app
+git clone git@github.com:keogh/itson-navojoa-seed.git chat-app
 ```
