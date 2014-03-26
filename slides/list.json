@@ -12,6 +12,9 @@
         "the-players-bootstrap.md"
     ],
     "hello-world-angular.md",
-    "the-chat-seed.md",
-    "the-chat-seed-fork.md"
+    [
+        "the-chat-seed.md",
+        "the-chat-seed-fork.md",
+        "the-chat-seed-clone.md"
+    ]
 ]
