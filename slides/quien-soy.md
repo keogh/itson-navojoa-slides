@@ -1,3 +1,1 @@
-## ¿Quien soy?
-
-### Isaac Zepeda
+## ¿Quién soy?
