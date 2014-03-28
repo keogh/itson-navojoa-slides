@@ -1,6 +1,11 @@
 [
     "index.md",
-    "quien-soy.md",
+    [
+        "quien-soy.md",
+        "quien-soy-foto.md",
+        "quien-soy-work.md",
+        "quien-soy-contact.md"
+    ],
     "agenda.md",
     [
         "the-players.md",
