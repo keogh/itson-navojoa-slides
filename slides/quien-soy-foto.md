@@ -1,1 +1,3 @@
-<img src="img/me.jpg" />
+## Isaac Zepeda
+
+<img src="img/me.jpg" height="600px" />
